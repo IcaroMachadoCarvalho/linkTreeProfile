@@ -12,6 +12,7 @@
 <h3>⚙️ Status: Em desenvolvimento</h3>
 
 <h3>🤝 Confira o Deploy</h3>
+https://link-tree-profile.vercel.app/
 
 <h2>Screenshots Desktop</h2>
 <div align="center">
