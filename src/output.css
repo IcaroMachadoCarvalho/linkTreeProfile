@@ -701,16 +701,6 @@
       }
     }
   }
-  .focus-within\:bg-blue-500 {
-    &:focus-within {
-      background-color: var(--color-blue-500);
-    }
-  }
-  .focus-within\:fill-blue-500 {
-    &:focus-within {
-      fill: var(--color-blue-500);
-    }
-  }
   .focus-within\:fill-white {
     &:focus-within {
       fill: var(--color-white);
@@ -753,22 +743,9 @@
       }
     }
   }
-  .focus\:scale-105 {
-    &:focus {
-      --tw-scale-x: 105%;
-      --tw-scale-y: 105%;
-      --tw-scale-z: 105%;
-      scale: var(--tw-scale-x) var(--tw-scale-y);
-    }
-  }
   .focus\:bg-blue-500 {
     &:focus {
       background-color: var(--color-blue-500);
-    }
-  }
-  .focus\:fill-blue-500 {
-    &:focus {
-      fill: var(--color-blue-500);
     }
   }
   .active\:scale-105 {
@@ -777,11 +754,6 @@
       --tw-scale-y: 105%;
       --tw-scale-z: 105%;
       scale: var(--tw-scale-x) var(--tw-scale-y);
-    }
-  }
-  .active\:bg-blue-500 {
-    &:active {
-      background-color: var(--color-blue-500);
     }
   }
   .active\:fill-blue-500 {
